@@ -34,28 +34,28 @@
 
 ## Staff (staff.txt)
 
-| Data Type | Field      | Name                               |
-| --------- | ---------- | ---------------------------------- |
-| string    | staffFName | Staff's First Name                 |
-| string    | staffLName | Staff's Last Name                  |
-| int       | staffPhone | Staff's Phone                      |
-| string    | staffEmail | Staff's Email                      |
-| int       | staffNRIC  | Staff's NRIC                       |
-| string    | staffPwd   | Staff Password                     |
-| string    | staffRole  | Staff's Role (Manager, Counsellor) |
-| string    | staffStat  | Staff's Status                     |
+| Data Type | Field      | Name                                 |
+| --------- | ---------- | ------------------------------------ |
+| string    | staffFName | Staff's First Name                   |
+| string    | staffLName | Staff's Last Name                    |
+| int       | staffPhone | Staff's Phone                        |
+| string    | staffEmail | Staff's Email                        |
+| int       | staffNRIC  | Staff's NRIC                         |
+| string    | staffPwd   | Staff Password                       |
+| string    | staffRole  | Staff's Role (Manager or Counsellor) |
+| string    | staffStat  | Staff's Status (Active or Inactive)  |
 
 ## Patient (pt.txt)
 
-| Data Type | Field    | Name                 |
-| --------- | -------- | -------------------- |
-| sting     | ptFName  | Patient's First Name |
-| string    | ptLName  | Patient's Last Name  |
-| int       | ptPhone  | Patient's Phone      |
-| string    | ptEmail  | Patient's Email      |
-| int       | ptAge    | Patient's Age        |
-| string    | ptPwd    | Patient Password     |
-| string    | ptStatus | Patient's Status     |
+| Data Type | Field    | Name                                  |
+| --------- | -------- | ------------------------------------- |
+| sting     | ptFName  | Patient's First Name                  |
+| string    | ptLName  | Patient's Last Name                   |
+| int       | ptPhone  | Patient's Phone                       |
+| string    | ptEmail  | Patient's Email                       |
+| int       | ptAge    | Patient's Age                         |
+| string    | ptPwd    | Patient Password                      |
+| string    | ptStatus | Patient's Status (Active or Inactive) |
 
 ## Comment (cmt.txt)
 
